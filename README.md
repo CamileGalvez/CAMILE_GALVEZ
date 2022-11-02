@@ -8,3 +8,19 @@
 2. CANCIONES Y GRUPOS/SOLISTAS FAVORITOS
 3. RECOMENDACIONES
 
+### 1. GÉNEROS FAVORITOS 
+
++ K-POPP
++ POP INGLÉS
++ POP ITALIANO
+
+### 2. CANCIONES Y GRUPOS/SOLISTAS FAVORITOS
+
+|   GÉNERO   | GRUPO/SOLISTA|  CANCIÓN  |
+|------------|--------------|-----------|
+|    K-POP   |      BTS     |  RUN BTS  | 
+| POP INGLÉS |     5SOS     | BAD OMENS |
+|POP ITALIANO|    Mahmood   |   SOLDI   |
+
+### 3. RECOMENDACIONES
+
