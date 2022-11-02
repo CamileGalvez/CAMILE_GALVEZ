@@ -24,7 +24,7 @@
 
 ### 3. RECOMENDACIONES
 
-*K-POP: [143 - SKZ ](https://youtu.be/jYSlpC6Ud2A)
-*POP INGLÉS: [UNHOLY - SAM SMITH](https://youtu.be/Uq9gPaIzbe8)
-*POP ITALIANO: [THE LONELIEST - MANESKIN](https://youtu.be/odWKEfp2QMY)
+* K-POP: [143 - SKZ ](https://youtu.be/jYSlpC6Ud2A)
+* POP INGLÉS: [UNHOLY - SAM SMITH](https://youtu.be/Uq9gPaIzbe8)
+* POP ITALIANO: [THE LONELIEST - MANESKIN](https://youtu.be/odWKEfp2QMY)
 
