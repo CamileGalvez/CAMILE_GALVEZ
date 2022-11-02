@@ -4,9 +4,9 @@
 
 ## ÍNDICE
 
-1. [GÉNEROS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/main/README.md#1-g%C3%A9neros-favoritos)
-2. [CANCIONES Y GRUPOS/SOLISTAS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/main/README.md#2-canciones-y-grupossolistas-favoritos)
-3. [RECOMENDACIONES](https://github.com/CamileGalvez/CAMILE_GALVEZ/main/README.md#3-recomendaciones)
+1. [GÉNEROS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#1-g%C3%A9neros-favoritos)
+2. [CANCIONES Y GRUPOS/SOLISTAS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#2-canciones-y-grupossolistas-favoritos)
+3. [RECOMENDACIONES](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#3-recomendaciones)
 
 
 
