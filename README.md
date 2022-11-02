@@ -30,5 +30,14 @@
 * POP INGLÉS: [UNHOLY - SAM SMITH](https://youtu.be/Uq9gPaIzbe8)
 * POP ITALIANO: [THE LONELIEST - MANESKIN](https://youtu.be/odWKEfp2QMY)
 
+#### CONCIERTOS A LOS QUE VOY A ASISTIR/HE ASISTIDO
+
+- [X] BTS
+- [ ] SKZ
+- [ ] SAM SMITH
+- [X] 5SOS
+- [ ] MAHMOOD
+- [ ] MANESKIN
+
 
 
