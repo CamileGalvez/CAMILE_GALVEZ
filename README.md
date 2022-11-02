@@ -4,9 +4,11 @@
 
 ## ÍNDICE
 
-1. GÉNEROS FAVORITOS 
-2. CANCIONES Y GRUPOS/SOLISTAS FAVORITOS
-3. RECOMENDACIONES
+1. [GÉNEROS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#1-g%C3%A9neros-favoritos)
+2. [CANCIONES Y GRUPOS/SOLISTAS FAVORITOS](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#2-canciones-y-grupossolistas-favoritos)
+3. [RECOMENDACIONES](https://github.com/CamileGalvez/CAMILE_GALVEZ/edit/main/README.md#3-recomendaciones)
+
+
 
 ### 1. GÉNEROS FAVORITOS 
 
@@ -28,15 +30,5 @@
 * POP INGLÉS: [UNHOLY - SAM SMITH](https://youtu.be/Uq9gPaIzbe8)
 * POP ITALIANO: [THE LONELIEST - MANESKIN](https://youtu.be/odWKEfp2QMY)
 
-### 4. CONCIERTOS A LOS QUE HE IDO 
 
-[ ] A
-[x] B
-[ ] C
-[_] 1. BTS
-2. SKZ
-3. SAM SMITH
-4. 5SOS
-5. MANESKIN
-6. MAHMOOD
 
