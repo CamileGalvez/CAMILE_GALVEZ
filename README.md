@@ -40,5 +40,28 @@
 - [ ] MAHMOOD
 - [ ] MANESKIN
 
+```java
+
+	private static void ejercicio2() {
+		
+		int num1;
+		
+		Scanner entrada = new Scanner (System.in);
+		System.out.println("introduce un número");
+		num1 = entrada.nextInt();
+		
+		if (num1>0) {
+			System.out.println(num1 + " es positivo ");
+		}
+		else if (num1<0) {
+			System.out.println(num1+ " es negativo ");
+		}
+		else {
+			System.out.println(num1 + " es 0 ");
+			
+		}
+	}
+	
+
 
 
